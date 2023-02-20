@@ -6,7 +6,7 @@ A few things about me
 
 -> I enjoy bringing a static design or idea to life and learning new technologies.
 
--> Skilled in creating responsive designs, HTML5,CSS3,JavaScript,React Js,Node js,UX Design.
+-> Skilled in creating responsive designs, HTML5,CSS3,JavaScript,React Js,Node js,UX/UI Design.
 
 
 
